@@ -1,5 +1,5 @@
 from pytest import approx
-from app import square, cube
+from src.app import square, cube
 
 
 def test_square_positive_integer():
